@@ -1,0 +1,40 @@
+body {
+    background: #7b5f4b;
+    color: #CC9C75;
+}
+   
+div {
+    text-align: center;
+}
+
+.cabecalho .menu {
+    display: flex;
+    align-items:end;
+    height: 100%;
+    margin: 35px;
+    margin-left: 394px;
+}
+
+.cabecalho nav ul li a {
+    font-weight: bold;
+    color: rgb(78, 53, 53);
+    font-size: 20px;
+    padding: 15px 20px;
+    border-radius: 50px;
+    transition: 0.2s;
+    background-color: rgb(204, 170, 128);
+    margin: 15px 15px 15px 15px;
+}
+
+.cabecalho nav li a:hover {
+    background-color: #ab8971;
+    transform: scale(1.1);
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+main .receita {
+    text-align: center;
+}

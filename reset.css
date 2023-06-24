@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  border-radius: 100%;
+}
+
+ol {
+  font-weight: bold;
+}
+
+li {
+  font-weight: normal;
+}
